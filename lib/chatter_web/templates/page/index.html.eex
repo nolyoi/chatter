@@ -1,0 +1,15 @@
+
+  <div id='messages' class='grid grid-cols-1'>
+  <ul id="message-list" class="list-inside bg-gray-200">
+
+  </ul>
+  </div>
+
+  <div class='grid grid-cols-12 gap-4'>
+    <div class='col-span-3'>
+      <input type='text' id='name' class='form-control' placeholder='Name' />
+    </div>
+    <div class='col-span-9'>
+      <input type='text' id='message' class='form-control' placeholder='Message' />
+    </div>
+  </div>
